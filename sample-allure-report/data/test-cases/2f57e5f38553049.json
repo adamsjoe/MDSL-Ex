@@ -1,0 +1,119 @@
+{
+  "uid" : "2f57e5f38553049",
+  "name" : "should allow a value to be selected from the dropdown",
+  "fullName" : "Scenario One Test.should allow a value to be selected from the dropdown",
+  "historyId" : "4d834a2c92ce6727f290907cb0732adb",
+  "time" : {
+    "start" : 1615023792058,
+    "stop" : 1615023793379,
+    "duration" : 1321
+  },
+  "description" : "Allow Drop Down (Select) items to be selectable",
+  "descriptionHtml" : "<p>Allow Drop Down (Select) items to be selectable</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Navigating to \"https://www.seleniumeasy.com/test/\"",
+      "time" : {
+        "start" : 1615023793064,
+        "stop" : 1615023793064,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Navigating to \"https://www.seleniumeasy.com/test/input-form-demo.html\"",
+      "time" : {
+        "start" : 1615023793064,
+        "stop" : 1615023793064,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Selecting the \"Nevada\" from the element refereced as \"[name=\"state\"]\"",
+      "time" : {
+        "start" : 1615023793153,
+        "stop" : 1615023793153,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Scenario One"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "medium"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Scenario One Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Scenario One Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should allow a value to be selected from the dropdown"
+  }, {
+    "name" : "package",
+    "value" : "Scenario One Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-86.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f57e5f38553049.json",
+  "parameterValues" : [ "firefox-86.0" ]
+}

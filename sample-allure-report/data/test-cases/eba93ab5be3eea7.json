@@ -1,0 +1,179 @@
+{
+  "uid" : "eba93ab5be3eea7",
+  "name" : "should return the average age of all San Fanciso based employees",
+  "fullName" : "Scenario Three Test.should return the average age of all San Fanciso based employees",
+  "historyId" : "952bf5546f6368a29f3bcbd3151cbea2",
+  "time" : {
+    "start" : 1615023798068,
+    "stop" : 1615023802570,
+    "duration" : 4502
+  },
+  "description" : "Verify the average age of all San Francisco based employees",
+  "descriptionHtml" : "<p>Verify the average age of all San Francisco based employees</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Navigating to \"https://www.seleniumeasy.com/test/\"",
+      "time" : {
+        "start" : 1615023799257,
+        "stop" : 1615023799257,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Navigating to \"https://www.seleniumeasy.com/test/table-sort-search-demo.html\"",
+      "time" : {
+        "start" : 1615023799257,
+        "stop" : 1615023799257,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifying that the page title matches \"Selenium Easy - Tabel Sort and Search Demo\".",
+      "time" : {
+        "start" : 1615023801346,
+        "stop" : 1615023801346,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Entering \"San Francisco\" into the field referenced as \"input\"",
+      "time" : {
+        "start" : 1615023801358,
+        "stop" : 1615023801358,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifing the element identified with \"[id=\"example\"]\" can be found.",
+      "time" : {
+        "start" : 1615023802453,
+        "stop" : 1615023802453,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Getting the text of the element with tag [id=\"example_info\"]",
+      "time" : {
+        "start" : 1615023802466,
+        "stop" : 1615023802466,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Checking that values match",
+      "time" : {
+        "start" : 1615023802570,
+        "stop" : 1615023802570,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 7,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Scenario Two"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Scenario Three Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Scenario Three Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should return the average age of all San Fanciso based employees"
+  }, {
+    "name" : "package",
+    "value" : "Scenario Three Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-86.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eba93ab5be3eea7.json",
+  "parameterValues" : [ "firefox-86.0" ]
+}

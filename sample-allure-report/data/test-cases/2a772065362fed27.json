@@ -1,0 +1,134 @@
+{
+  "uid" : "2a772065362fed27",
+  "name" : "should allow a radio button to be selected",
+  "fullName" : "Scenario One Test.should allow a radio button to be selected",
+  "historyId" : "921fa525dca3079ded87c31ebf6ae8a5",
+  "time" : {
+    "start" : 1615023790734,
+    "stop" : 1615023792058,
+    "duration" : 1324
+  },
+  "description" : "Allow radio buttons to be selectable",
+  "descriptionHtml" : "<p>Allow radio buttons to be selectable</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Navigating to \"https://www.seleniumeasy.com/test/\"",
+      "time" : {
+        "start" : 1615023791739,
+        "stop" : 1615023791739,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Navigating to \"https://www.seleniumeasy.com/test/input-form-demo.html\"",
+      "time" : {
+        "start" : 1615023791739,
+        "stop" : 1615023791739,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Clicking element referenced as \"[value=\"yes\"]\"",
+      "time" : {
+        "start" : 1615023791818,
+        "stop" : 1615023791818,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Getting the state of checkbox at \"[value=\"yes\"]\"",
+      "time" : {
+        "start" : 1615023792044,
+        "stop" : 1615023792044,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Scenario One"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "medium"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Scenario One Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Scenario One Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should allow a radio button to be selected"
+  }, {
+    "name" : "package",
+    "value" : "Scenario One Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-86.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2a772065362fed27.json",
+  "parameterValues" : [ "firefox-86.0" ]
+}

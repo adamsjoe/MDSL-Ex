@@ -1,0 +1,269 @@
+{
+  "uid" : "ac907038b6776db4",
+  "name" : "should have the elements present on page",
+  "fullName" : "Scenario One Test.should have the elements present on page",
+  "historyId" : "5c9847b6a24b90b588e0c214976dfdac",
+  "time" : {
+    "start" : 1615023783820,
+    "stop" : 1615023785021,
+    "duration" : 1201
+  },
+  "description" : "Verify elements are present on the page",
+  "descriptionHtml" : "<p>Verify elements are present on the page</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Navigating to \"https://www.seleniumeasy.com/test/\"",
+      "time" : {
+        "start" : 1615023784826,
+        "stop" : 1615023784826,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Navigating to \"https://www.seleniumeasy.com/test/input-form-demo.html\"",
+      "time" : {
+        "start" : 1615023784826,
+        "stop" : 1615023784826,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifing the element identified with \"[name=\"first_name\"]\" can be found.",
+      "time" : {
+        "start" : 1615023784918,
+        "stop" : 1615023784918,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifing the element identified with \"[name=\"last_name\"]\" can be found.",
+      "time" : {
+        "start" : 1615023784946,
+        "stop" : 1615023784946,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifing the element identified with \"[name=\"email\"]\" can be found.",
+      "time" : {
+        "start" : 1615023784953,
+        "stop" : 1615023784953,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifing the element identified with \"[name=\"phone\"]\" can be found.",
+      "time" : {
+        "start" : 1615023784962,
+        "stop" : 1615023784962,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifing the element identified with \"[name=\"address\"]\" can be found.",
+      "time" : {
+        "start" : 1615023784969,
+        "stop" : 1615023784969,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifing the element identified with \"[name=\"city\"]\" can be found.",
+      "time" : {
+        "start" : 1615023784976,
+        "stop" : 1615023784976,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifing the element identified with \"[name=\"state\"]\" can be found.",
+      "time" : {
+        "start" : 1615023784982,
+        "stop" : 1615023784982,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifing the element identified with \"[name=\"zip\"]\" can be found.",
+      "time" : {
+        "start" : 1615023784992,
+        "stop" : 1615023784992,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifing the element identified with \"[name=\"website\"]\" can be found.",
+      "time" : {
+        "start" : 1615023784998,
+        "stop" : 1615023784998,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifing the element identified with \"[name=\"hosting\"]\" can be found.",
+      "time" : {
+        "start" : 1615023785005,
+        "stop" : 1615023785005,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifing the element identified with \"[name=\"comment\"]\" can be found.",
+      "time" : {
+        "start" : 1615023785012,
+        "stop" : 1615023785012,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 13,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Scenario One"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "medium"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Scenario One Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Scenario One Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should have the elements present on page"
+  }, {
+    "name" : "package",
+    "value" : "Scenario One Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-86.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ac907038b6776db4.json",
+  "parameterValues" : [ "firefox-86.0" ]
+}

@@ -1,0 +1,374 @@
+{
+  "uid" : "93bdb5f9a8f2726f",
+  "name" : "should allow a multipe form elements to be filled in",
+  "fullName" : "Scenario One Test.should allow a multipe form elements to be filled in",
+  "historyId" : "e3a84e0a1e8bbd0120a28d6eeb6adf43",
+  "time" : {
+    "start" : 1615023789199,
+    "stop" : 1615023790734,
+    "duration" : 1535
+  },
+  "description" : "Fill in multipe form elements",
+  "descriptionHtml" : "<p>Fill in multipe form elements</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Navigating to \"https://www.seleniumeasy.com/test/\"",
+      "time" : {
+        "start" : 1615023790205,
+        "stop" : 1615023790205,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Navigating to \"https://www.seleniumeasy.com/test/input-form-demo.html\"",
+      "time" : {
+        "start" : 1615023790205,
+        "stop" : 1615023790205,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Entering \"ipsum ips\" into the field referenced as \"[name=\"first_name\"]\"",
+      "time" : {
+        "start" : 1615023790311,
+        "stop" : 1615023790311,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Entering \"ipsum ipsum\" into the field referenced as \"[name=\"last_name\"]\"",
+      "time" : {
+        "start" : 1615023790358,
+        "stop" : 1615023790358,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Entering \"nobody@somerandomsite.com\" into the field referenced as \"[name=\"email\"]\"",
+      "time" : {
+        "start" : 1615023790395,
+        "stop" : 1615023790395,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Entering \"11\" into the field referenced as \"[name=\"phone\"]\"",
+      "time" : {
+        "start" : 1615023790429,
+        "stop" : 1615023790430,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Entering \"ipsum ips\" into the field referenced as \"[name=\"address\"]\"",
+      "time" : {
+        "start" : 1615023790452,
+        "stop" : 1615023790452,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Entering \"ips\" into the field referenced as \"[name=\"city\"]\"",
+      "time" : {
+        "start" : 1615023790480,
+        "stop" : 1615023790480,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Entering \"ip\" into the field referenced as \"[name=\"zip\"]\"",
+      "time" : {
+        "start" : 1615023790525,
+        "stop" : 1615023790525,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Entering \"http://www.google.co.uk\" into the field referenced as \"[name=\"website\"]\"",
+      "time" : {
+        "start" : 1615023790551,
+        "stop" : 1615023790551,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Entering \"ipsum ipsum dolor sit amet\" into the field referenced as \"[name=\"comment\"]\"",
+      "time" : {
+        "start" : 1615023790584,
+        "stop" : 1615023790584,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifying the text at \"[name=\"first_name\"]\" is \"ipsum ips\"",
+      "time" : {
+        "start" : 1615023790634,
+        "stop" : 1615023790634,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifying the text at \"[name=\"last_name\"]\" is \"ipsum ipsum\"",
+      "time" : {
+        "start" : 1615023790643,
+        "stop" : 1615023790643,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifying the text at \"[name=\"email\"]\" is \"nobody@somerandomsite.com\"",
+      "time" : {
+        "start" : 1615023790654,
+        "stop" : 1615023790654,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifying the text at \"[name=\"phone\"]\" is \"11\"",
+      "time" : {
+        "start" : 1615023790664,
+        "stop" : 1615023790664,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifying the text at \"[name=\"address\"]\" is \"ipsum ips\"",
+      "time" : {
+        "start" : 1615023790675,
+        "stop" : 1615023790675,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifying the text at \"[name=\"city\"]\" is \"ips\"",
+      "time" : {
+        "start" : 1615023790686,
+        "stop" : 1615023790686,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifying the text at \"[name=\"zip\"]\" is \"ip\"",
+      "time" : {
+        "start" : 1615023790699,
+        "stop" : 1615023790699,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifying the text at \"[name=\"website\"]\" is \"http://www.google.co.uk\"",
+      "time" : {
+        "start" : 1615023790710,
+        "stop" : 1615023790710,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifying the text at \"[name=\"comment\"]\" is \"ipsum ipsum dolor sit amet\"",
+      "time" : {
+        "start" : 1615023790723,
+        "stop" : 1615023790723,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 20,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Scenario One"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "medium"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Scenario One Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Scenario One Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should allow a multipe form elements to be filled in"
+  }, {
+    "name" : "package",
+    "value" : "Scenario One Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-86.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "93bdb5f9a8f2726f.json",
+  "parameterValues" : [ "firefox-86.0" ]
+}

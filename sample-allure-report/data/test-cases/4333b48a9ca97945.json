@@ -1,0 +1,134 @@
+{
+  "uid" : "4333b48a9ca97945",
+  "name" : "should allow a single form element to be filled in",
+  "fullName" : "Scenario One Test.should allow a single form element to be filled in",
+  "historyId" : "c68c4371798a931a49748328de4afd18",
+  "time" : {
+    "start" : 1615023785021,
+    "stop" : 1615023789199,
+    "duration" : 4178
+  },
+  "description" : "Fill in a single form element",
+  "descriptionHtml" : "<p>Fill in a single form element</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Navigating to \"https://www.seleniumeasy.com/test/\"",
+      "time" : {
+        "start" : 1615023786027,
+        "stop" : 1615023786027,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Navigating to \"https://www.seleniumeasy.com/test/input-form-demo.html\"",
+      "time" : {
+        "start" : 1615023786027,
+        "stop" : 1615023786027,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Entering \"ipsum ips\" into the field referenced as \"[name=\"first_name\"]\"",
+      "time" : {
+        "start" : 1615023786119,
+        "stop" : 1615023786119,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verifying the text at \"[name=\"first_name\"]\" is \"ipsum ips\"",
+      "time" : {
+        "start" : 1615023789178,
+        "stop" : 1615023789178,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Scenario One"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "medium"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Scenario One Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Scenario One Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should allow a single form element to be filled in"
+  }, {
+    "name" : "package",
+    "value" : "Scenario One Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-86.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4333b48a9ca97945.json",
+  "parameterValues" : [ "firefox-86.0" ]
+}

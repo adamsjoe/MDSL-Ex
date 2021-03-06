@@ -1,0 +1,121 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Scenario One",
+    "children" : [ {
+      "name" : "should return the page title",
+      "uid" : "a6fe3d679731a525",
+      "parentUid" : "0d6ecefec03cf493b15c4f216d2724aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615023780673,
+        "stop" : 1615023783820,
+        "duration" : 3147
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-86.0" ]
+    }, {
+      "name" : "should have the elements present on page",
+      "uid" : "ac907038b6776db4",
+      "parentUid" : "0d6ecefec03cf493b15c4f216d2724aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615023783820,
+        "stop" : 1615023785021,
+        "duration" : 1201
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-86.0" ]
+    }, {
+      "name" : "should allow a single form element to be filled in",
+      "uid" : "4333b48a9ca97945",
+      "parentUid" : "0d6ecefec03cf493b15c4f216d2724aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615023785021,
+        "stop" : 1615023789199,
+        "duration" : 4178
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-86.0" ]
+    }, {
+      "name" : "should allow a multipe form elements to be filled in",
+      "uid" : "93bdb5f9a8f2726f",
+      "parentUid" : "0d6ecefec03cf493b15c4f216d2724aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615023789199,
+        "stop" : 1615023790734,
+        "duration" : 1535
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-86.0" ]
+    }, {
+      "name" : "should allow a radio button to be selected",
+      "uid" : "2a772065362fed27",
+      "parentUid" : "0d6ecefec03cf493b15c4f216d2724aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615023790734,
+        "stop" : 1615023792058,
+        "duration" : 1324
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-86.0" ]
+    }, {
+      "name" : "should allow a value to be selected from the dropdown",
+      "uid" : "2f57e5f38553049",
+      "parentUid" : "0d6ecefec03cf493b15c4f216d2724aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615023792058,
+        "stop" : 1615023793379,
+        "duration" : 1321
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-86.0" ]
+    } ],
+    "uid" : "0d6ecefec03cf493b15c4f216d2724aa"
+  }, {
+    "name" : "Scenario Two",
+    "children" : [ {
+      "name" : "should return the average age of all San Fanciso based employees",
+      "uid" : "eba93ab5be3eea7",
+      "parentUid" : "d5ac8b923a570c37fe4731a360777f82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615023798068,
+        "stop" : 1615023802570,
+        "duration" : 4502
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-86.0" ]
+    } ],
+    "uid" : "d5ac8b923a570c37fe4731a360777f82"
+  }, {
+    "name" : "Scenario Three",
+    "children" : [ {
+      "name" : "should return the highest salary in the company is \"$206850/y\"",
+      "uid" : "65a6edd9f59863d3",
+      "parentUid" : "cd1cbf5f62a864d845aaa858cf25663f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615023807241,
+        "stop" : 1615023811721,
+        "duration" : 4480
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-86.0" ]
+    } ],
+    "uid" : "cd1cbf5f62a864d845aaa858cf25663f"
+  } ]
+}
